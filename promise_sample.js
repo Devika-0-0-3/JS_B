@@ -76,3 +76,5 @@ add(10,20).then((sum)=>{
 .catch((err)=>{
     console.log(err);
 })
+//promise calles returns goes to then again after again
+//chaining
